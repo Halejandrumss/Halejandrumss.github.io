@@ -1,4 +1,4 @@
-# (Nombre del proyecto)  
+# (Mis pies son mis ojos)  
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
@@ -9,15 +9,15 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : Mis pies son mis ojos
 
 **Autor(es)** ______________
 
-**Resumen** : _________
+**Resumen** : Alicia es una de las bailarinas de ballet más prometedoras de toda Cuba, pero últimamente no se siente demasiado bien. Esta noche tenía que bailar en el teatro mayor de La Habana, pero se sempezó a sentir mareada a mitad de la función y tuvo que parar. A partir de aquí se enfrentará a una nueva realidad entre la que tendrá que elegir seguir bailando o dejar de hacerlo para siempre.
 
 **logotipo** :  ________
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** (frase motivadora/inspiradora): "La decisión de Alicia"
 
 **Hashtag**  ___
 
@@ -25,7 +25,7 @@ Univesidad de Granada
 
 **Fecha** : 2024
 
-**Medios** (donde se tiene presencia): 
+**Medios** (donde se tiene presencia): Web, appstore, googleplay.
 
 
 * :octocat: (github url) 

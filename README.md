@@ -9,15 +9,17 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : Mis pies son mis ojos
 
 **Autor(es)** : Alejandra Navas, Gabriel Baldoy, Susana Besteiro.  
 
-**Resumen** : _________
+**Resumen** : Alicia es una de las bailarinas de ballet más prometedoras de toda Cuba, pero últimamente no se siente demasiado bien.
+
+Esta noche tenía que bailar en el teatro mayor de la Habana, pero se sintió un poco mareada a mitad de la función. Alicia tendrá que elegir su destino a aprtir de aquí.
 
 **logotipo** :  (Bailarina.jpg)
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** (frase motivadora/inspiradora): Bailar a través de los ojos
 
 **Hashtag**  #VivirOVer
 
